@@ -1,0 +1,11 @@
+commit 692001981439cd1e4dfa2dfa230ce8333238a378 (HEAD -> logging, origin/master, master)
+Author: Martin Ikonomov <martin.ikonomov@gmail.com>
+Date:   Fri Mar 23 16:19:55 2018 +0100
+
+    modify l1
+
+commit f5c9e6834b8105a1e013afce1b77dfe70243e4df
+Author: Martin Ikonomov <martin.ikonomov@gmail.com>
+Date:   Fri Mar 23 16:18:13 2018 +0100
+
+    Inital commit
